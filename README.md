@@ -1,9 +1,13 @@
 # Rust-Language
 Repository for Learning the basics of Rust programming language
 
-`scalar_data_types_and_variables` covers basics of primitive data types and variable declarations
+`scalar_data_types_and_variables` covers the basics of primitive data types and variable declarations
 
-`compound_data_types` covers basics of tuple and array types, how to define them, how to access elements .etc
+`compound_data_types` covers the basics of tuple and array types, how to define them, how to access elements .etc
+
+`functions` covers the basics of creating functions, passing parameters, and return values .etc
+
+`control_flow` covers the basics of control structures(if,else if,else) and repetition structures (loop,while,for)
 
 Following are some of the useful links for learning Rust programming language
 
