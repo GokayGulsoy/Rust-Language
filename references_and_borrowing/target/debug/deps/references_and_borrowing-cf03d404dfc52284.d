@@ -1,0 +1,5 @@
+/home/gokay/Desktop/Rust Language/references_and_borrowing/target/debug/deps/references_and_borrowing-cf03d404dfc52284.rmeta: src/main.rs
+
+/home/gokay/Desktop/Rust Language/references_and_borrowing/target/debug/deps/references_and_borrowing-cf03d404dfc52284.d: src/main.rs
+
+src/main.rs:
