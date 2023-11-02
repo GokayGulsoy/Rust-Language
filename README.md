@@ -9,6 +9,12 @@ Repository for Learning the basics of Rust programming language
 
 `control_flow` covers the basics of control structures(if,else if,else) and repetition structures (loop,while,for)
 
+`ownership~` covers the basics of Rust's one of the unique memory safety techniques,such as moving ownership
+
+`references` covers the basics of not taking the ownership with reference types and borrowing
+
+`slice_types` covers the basics of slice types, how to get certain parts of strings and arrays
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
