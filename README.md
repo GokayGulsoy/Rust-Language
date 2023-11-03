@@ -15,6 +15,10 @@ Repository for Learning the basics of Rust programming language
 
 `slice_types` covers the basics of slice types, how to get certain parts of strings and arrays
 
+`methods` covers the basics of methods, how we define methods, how parameters are passed, etc.
+
+`structs` covers the basics of how structs are defined and how fields of structs are accessed
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
