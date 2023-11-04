@@ -21,6 +21,8 @@ Repository for Learning the basics of Rust programming language
 
 `enums` covers the basics of enumerated types, match and if let control flow structures
 
+`restaurant` covers the basics of modules,crates,and use keyword to bring paths to scopes
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
