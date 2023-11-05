@@ -23,6 +23,8 @@ Repository for Learning the basics of Rust programming language
 
 `restaurant` covers the basics of modules,crates,and use keyword to bring paths to scopes
 
+`collections` covers the basics of collections such as vectors,strings,and hash maps
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
