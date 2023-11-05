@@ -23,7 +23,9 @@ Repository for Learning the basics of Rust programming language
 
 `restaurant` covers the basics of modules,crates,and use keyword to bring paths to scopes
 
-`collections` covers the basics of collections such as vectors,strings,and hash maps
+`collections` covers the basics of collections such as vectors, strings, and hash maps
+
+`error handling` covers the basics of error handling with panic! and Result<T, E>
 
 Following are some of the useful links for learning Rust programming language
 
