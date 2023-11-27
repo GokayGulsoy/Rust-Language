@@ -27,6 +27,8 @@ Repository for Learning the basics of Rust programming language
 
 `error handling` covers the basics of error handling with panic! and Result<T, E>
 
+`writing automated tests` covers the basics of writing automated unit and integration tests
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
