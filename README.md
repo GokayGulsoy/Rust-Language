@@ -29,6 +29,8 @@ Repository for Learning the basics of Rust programming language
 
 `writing automated tests` covers the basics of writing automated unit and integration tests
 
+`smart pointers` covers the basics of smart pointers such as Box,Deref and Drop Traits, Rc,RefCell 
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
