@@ -35,6 +35,8 @@ Repository for Learning the basics of Rust programming language
 
 `object oriented implementation` implements a object-oriented state pattern for blog post
 
+`pattern matching` covers the basics of pattern matching constructs (if let, while let, match, etc.)
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
