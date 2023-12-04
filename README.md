@@ -37,6 +37,8 @@ Repository for Learning the basics of Rust programming language
 
 `pattern matching` covers the basics of pattern matching constructs (if let, while let, match, etc.)
 
+`package manager (number guessing game)` implementation of a basic number guessing game
+
 Following are some of the useful links for learning Rust programming language
 
 Follow this link for the installation of Rust for your OS: [Install Rust](https://www.rust-lang.org/learn/get-started).
